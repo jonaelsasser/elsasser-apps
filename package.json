@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@directus/sdk": "^17.0.1",
     "@plasmicapp/loader-nextjs": "^1.0.404",
     "@plasmicapp/react-web": "^0.2.350",
     "next": "14.2.8",
